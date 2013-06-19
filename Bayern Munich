@@ -1,2 +1,19 @@
-Name,Stadium,Address,Latitude,Longitude
-Bayern München, Allianz Arena, 48.2188, 11.6248
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FACILITY_I": 123976.0, "SERVICE_DA": "2007\/03\/26", "CALL_SIGN": "NULL", "CHANNEL": 234.0, "APP_ID": 500243.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "GA", "TRANSLATOR": 0.0, "CITY": "SPRINGFIELD" }, "geometry": { "type": "Point", "coordinates": [ -81.299554906610865, 32.354080966941915 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 124565.0, "SERVICE_DA": "2009\/12\/18", "CALL_SIGN": "KXRN-LP", "CHANNEL": 228.0, "APP_ID": 501374.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "CA", "TRANSLATOR": 0.0, "CITY": "LAGUNA NIGUEL" }, "geometry": { "type": "Point", "coordinates": [ -117.71088602754223, 33.523081689255775 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 135689.0, "SERVICE_DA": "2003\/10\/15", "CALL_SIGN": "NULL", "CHANNEL": 245.0, "APP_ID": 570713.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "VI", "TRANSLATOR": 0.0, "CITY": "CHARLOTTE AMALIE" }, "geometry": { "type": "Point", "coordinates": [ -64.910833330000017, 18.33166667 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 123726.0, "SERVICE_DA": "2001\/07\/13", "CALL_SIGN": "KCJM-LP", "CHANNEL": 300.0, "APP_ID": 575418.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "LA", "TRANSLATOR": 0.0, "CITY": "ALEXANDRIA" }, "geometry": { "type": "Point", "coordinates": [ -92.444859291122611, 31.311293564428432 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 123909.0, "SERVICE_DA": "2001\/11\/07", "CALL_SIGN": "KEFC-LP", "CHANNEL": 263.0, "APP_ID": 586707.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "CA", "TRANSLATOR": 0.0, "CITY": "TURLOCK" }, "geometry": { "type": "Point", "coordinates": [ -120.839371907665594, 37.511323148536086 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 131576.0, "SERVICE_DA": "2002\/03\/21", "CALL_SIGN": "KEAO-LP", "CHANNEL": 218.0, "APP_ID": 598841.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "HI", "TRANSLATOR": 0.0, "CITY": "WAILUKU" }, "geometry": { "type": "Point", "coordinates": [ -156.5033333, 20.89638889 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 124750.0, "SERVICE_DA": "2002\/03\/28", "CALL_SIGN": "KAQU-LP", "CHANNEL": 201.0, "APP_ID": 598956.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "AK", "TRANSLATOR": 0.0, "CITY": "SITKA" }, "geometry": { "type": "Point", "coordinates": [ -135.253152454982001, 57.033803511462118 ] } }
+,
+{ "type": "Feature", "properties": { "FACILITY_I": 123612.0, "SERVICE_DA": "2002\/02\/19", "CALL_SIGN": "NULL", "CHANNEL": 300.0, "APP_ID": 595971.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "MD", "TRANSLATOR": 0.0, "CITY": "OCEAN CITY" }, "geometry": { "type": "Point", "coordinates": [ -75.056292780708162, 38.41650201527537 ] } }
