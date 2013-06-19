@@ -1,4 +1,1 @@
-$ mkdir ~/Bundesliga
-$ cd ~/Bundesliga
-$ git init
-$ touch README
+Map of all Bundesliga and 2. Bundesliga Teams
